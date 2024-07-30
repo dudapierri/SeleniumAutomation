@@ -1,0 +1,3 @@
+dataDrivenTesting,nome,cep,destinatario,numero,mensagem,Duration(ms),Duration(ms),Duration(ms)
+"",Teste,57017242,Teste teste,999,Endereço cadastrado.,9212.0,9212.0,9212.0
+"",Teste2,69314065,Teste teste 2,12,Endereço cadastrado.,9792.0,9792.0,9792.0
